@@ -1,3 +1,3 @@
 # git-conflict-challenge
-LOCAL VERSION TEST
+VERSION LOCALE
 
