@@ -1,2 +1,3 @@
 # git-conflict-challenge
-Version GitHub
+Version GitHub conflit
+
