@@ -1,3 +1,3 @@
 # git-conflict-challenge
-Version GitHub conflit
+LOCAL VERSION TEST
 
